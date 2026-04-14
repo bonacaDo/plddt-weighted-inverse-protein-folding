@@ -1,0 +1,29 @@
+# Byte-compiled / optimised / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training outputs (generated on HPC)
+plddt_weighted/data/
+plddt_weighted/results/
+!plddt_weighted/data/.gitkeep
+!plddt_weighted/results/.gitkeep
+.codex
+.fa

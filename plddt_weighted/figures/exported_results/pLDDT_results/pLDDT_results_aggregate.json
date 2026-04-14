@@ -1,0 +1,19 @@
+{
+  "n_structures": 20,
+  "vanilla_mean_recovery": 0.39233472272753717,
+  "plddt_mean_recovery": 0.36629916802048684,
+  "vanilla_mean_perplexity": 7.695564246177673,
+  "plddt_mean_perplexity": 8.367070508003234,
+  "very_low_vanilla_recovery": 0.15178322295347849,
+  "very_low_plddt_recovery": 0.1805659586356746,
+  "very_low_improvement": 0.02878273568219611,
+  "low_vanilla_recovery": 0.23565155752003192,
+  "low_plddt_recovery": 0.32132971212267875,
+  "low_improvement": 0.08567815460264683,
+  "confident_vanilla_recovery": 0.3141394145786762,
+  "confident_plddt_recovery": 0.2991206073447278,
+  "confident_improvement": -0.015018807233948439,
+  "very_high_vanilla_recovery": 0.4963389527466562,
+  "very_high_plddt_recovery": 0.44329220718807644,
+  "very_high_improvement": -0.053046745558579744
+}

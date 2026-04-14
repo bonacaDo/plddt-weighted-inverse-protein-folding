@@ -1,0 +1,6 @@
+name,uniprot_id,length,vanilla_best_recovery,weighted_best_recovery,delta,notes
+AF-P15502-F1.pdb,P15502,786,0.1883,0.3410,0.1527,strongest sampled win; slower because it is long
+AF-Q92804-F1.pdb,Q92804,592,0.2399,0.3767,0.1368,strong sampled win; also fairly long
+AF-P05114-F1.pdb,P05114,100,0.1800,0.2700,0.0900,fastest good live-demo case
+AF-P22626-F1.pdb,P22626,353,0.3569,0.4448,0.0879,medium-size backup case
+4GYT.pdb,4GYT,354,0.4011,0.4407,0.0396,experimental PDB backup; use xray B-factor interpretation
